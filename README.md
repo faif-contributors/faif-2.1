@@ -1,4 +1,4 @@
-# FaiF 3.0 
+# FaiF 2.0 
 Free as in Freedom is a book about the life of Richard Stallman written by Sam Williams in 2002.
 
 Free as in Freedom 2.0 is a revised edition by Stallman perself in 2010.
